@@ -1,9 +1,13 @@
 # Goal
 Recreate a frontend mentor design accurately
 
+
+# Design
 ![challenge](https://github.com/seanmena/LandingPage/blob/main/src/design/desktop-design.jpg?raw=true)
 ![challenge](https://github.com/seanmena/LandingPage/blob/main/src/design/mobile-design.jpg?raw=true)
 
+# Link to Challenge
+https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
 
 # Languages
 React.js, CSS
@@ -17,3 +21,5 @@ Additional design for smartphone and smaller screens
 
 # UX/UI
 Utilized vanilla css for animations, and clear links
+
+No routing this is a front-end only project
