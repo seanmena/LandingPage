@@ -2,7 +2,7 @@
 Recreate a frontend mentor design accurately
 
 
-# Design
+# Images Provided to me:
 ![challenge](https://github.com/seanmena/LandingPage/blob/main/src/design/desktop-design.jpg?raw=true)
 ![challenge](https://github.com/seanmena/LandingPage/blob/main/src/design/mobile-design.jpg?raw=true)
 
