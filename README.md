@@ -1,6 +1,9 @@
 # Goal
 Recreate a frontend mentor design accurately
 
+# Live deploy
+https://seanmena.github.io/LandingPage/
+
 
 # Images Provided to me:
 ![challenge](https://github.com/seanmena/LandingPage/blob/main/src/design/desktop-design.jpg?raw=true)
